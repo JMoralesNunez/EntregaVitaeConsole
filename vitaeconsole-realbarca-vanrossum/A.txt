@@ -1,0 +1,31 @@
+========== HOJA DE VIDA ==========
+
+>> DATOS PERSONALES
+Nombre: A
+Número de Identificación: 15467895
+Fecha de Nacimiento: 02/11/2000
+Celular: 2135489645
+Dirección: Cra 78 # 2 D
+Correo Electrónico: A@M.com
+
+>> FORMACIÓN ACADÉMICA
+- Universidad: Universidad de los Aandes
+  Título: Periodismo
+  Año de Graduación: 2015
+
+>> EXPERIENCIA PROFESIONAL
+- Empresa: Amazon
+  Cargo: Vendedor
+  Duración: 4
+
+>> REFERENCIAS PERSONALES
+- Nombre: Luisa
+  Relación: Madre
+  Teléfono: 3216549853
+
+>> HABILIDADES ADICIONALES
+- CSS
+- JS
+- C#
+
+==================================

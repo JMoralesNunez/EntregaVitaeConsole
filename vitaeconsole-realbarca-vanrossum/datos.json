@@ -1,0 +1,85 @@
+{
+    "1": {
+        "datosPersonales": {
+            "nombre": "J",
+            "identificadores": [
+                "1000456789",
+                "12/88/2005"
+            ],
+            "contacto": "31359450559",
+            "dirección": "Cra12 #34 A 45",
+            "correo": "miguelarias@gmail.com"
+        },
+        "formacionAcademica": [
+            {
+                "Universidad": "ECCI",
+                "Titulo": "Profesional lenguas modernas",
+                "añoGraduación": "2024"
+            }
+        ],
+        "experienciaProfesional": [
+            {
+                "Empresa": "Teleperformance",
+                "Cargo": "Asesor Bilingüe",
+                "Duración": "10"
+            },
+            {
+                "Empresa": "Concentrix",
+                "Cargo": "Asesor Bilingüe",
+                "Duración": "4 meses"
+            }
+        ],
+        "referenciasPersonales": [
+            {
+                "nombre": "miguel angel arias marin II",
+                "relación": "vecino",
+                "telefono": "3205118016"
+            }
+        ],
+        "habilidadesAdicionales": [
+            "HTML",
+            "CSS",
+            "Python",
+            "Inglés B2",
+            "Diploma Pedagogía"
+        ]
+    },
+    "2": {
+        "datosPersonales": {
+            "nombre": "A",
+            "identificadores": [
+                "15467895",
+                "02/11/2000"
+            ],
+            "contacto": "2135489645",
+            "dirección": "Cra 78 # 2 D",
+            "correo": "A@M.com"
+        },
+        "formacionAcademica": [
+            {
+                "Universidad": "Universidad de los Aandes",
+                "Titulo": "Periodismo",
+                "añoGraduación": "2015"
+            }
+        ],
+        "experienciaProfesional": [
+            {
+                "Empresa": "Amazon",
+                "Cargo": "Vendedor",
+                "Duración": "4"
+            }
+        ],
+        "referenciasPersonales": [
+            {
+                "nombre": "Luisa",
+                "relación": "Madre",
+                "telefono": "3216549853"
+            }
+        ],
+        "habilidadesAdicionales": [
+            "CSS",
+            "JS",
+            "C#"
+        ]
+    }
+}

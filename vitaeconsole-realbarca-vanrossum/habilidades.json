@@ -1,0 +1,53 @@
+{
+    "1": {
+        "datosPersonales": {
+            "nombre": "J",
+            "identificadores": [
+                "1000456789",
+                "12/88/2005"
+            ],
+            "contacto": "3017035548",
+            "dirección": "Cra12 #34 A 45",
+            "correo": "miguelarias@gmail.com"
+        },
+        "formacionAcademica": [
+            {
+                "Universidad": "ECCI",
+                "Titulo": "Profesional lenguas modernas",
+                "añoGraduación": "2024"
+            }
+        ],
+        "experienciaProfesional": [
+            {
+                "Empresa": "Teleperformance",
+                "Cargo": "Asesor Bilingüe",
+                "Duración": "10"
+            },
+            {
+                "Empresa": "Concentrix",
+                "Cargo": "Asesor Bilingüe",
+                "Duración": "4 meses"
+            },
+            {
+                "Empresa": "Amazon",
+                "Cargo": "Vendedor",
+                "Duración": "3"
+            }
+        ],
+        "referenciasPersonales": [
+            {
+                "nombre": "miguel angel arias marin II",
+                "relación": "vecino",
+                "telefono": "3205118016"
+            }
+        ],
+        "habilidadesAdicionales": [
+            "HTML",
+            "CSS",
+            "Python",
+            "Inglés B2",
+            "Diploma Pedagogía",
+            "Caminar"
+        ]
+    }
+}
